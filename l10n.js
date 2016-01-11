@@ -18,7 +18,8 @@ var translations = {
 		'zh': "假如月亮只有一个像素那么大   一幅精准又冗长的太阳系地图",
 		'sv': "Om Månen var endast 1 pixel - En bedrövligt exakt karta över solsystemet",
 		'pl': "Gdyby Księżyc był wielkości 1 piksela - Monotonnie nudna mapa Układu Słonecznego",
-		'hy': "Եթէ Լուսինը լինէր 1 լուսակէտիկ (պիկսել) - Արեգակնային համակարգի ձանձրալիօրէն ճշգրիտ քարտէզ"
+		'hy': "Եթէ Լուսինը լինէր 1 լուսակէտիկ (պիկսել) - Արեգակնային համակարգի ձանձրալիօրէն ճշգրիտ քարտէզ",
+		'uz': "Agar Oy 1 piksel bo’lganda - Quyosh tizimining toliqtiradigan aniq xaritasi"
 	},
 	'suntxt': {
 		'en': "Sun",
@@ -38,8 +39,8 @@ var translations = {
 		'zh': "太阳",
 		'sv': "Solen",
 		'pl': "Słońce",
-		'hy': "Արեգակ"
-		
+		'hy': "Արեգակ",
+		'uz': "Quyosh"
 	},
 	'ten-million-km': {
        'en': "That was about 10 million km (6,213,710 mi) just now.",
@@ -59,7 +60,8 @@ var translations = {
 		'zh': "我们刚走过了一千万公里（6,213,710英里）",
 		'sv': "Det där var ungefär 10 miljoner km nyss",
 		'pl': "Do tej pory przebyliśmy ok. 10 milionów km (6 213 710 mi)",
-		'hy': "Սա մօտաւորապէս 10 միլիոն կիլօմետր էր:"
+		'hy': "Սա մօտաւորապէս 10 միլիոն կիլօմետր էր:",
+		'uz': "Tahminan 10 million km masofa bosib o’tildi."
     },
      'pretty-empty': {
 		 'en': "Pretty empty out here.",
@@ -79,7 +81,8 @@ var translations = {
 		'zh': "这里挺空的。",
 		'sv': "Rätt så tomt här ute.",
 		'pl': "Całkiem pusto tutaj.",
-		'hy': "Այստեղ բաւական դատարկ է:"
+		'hy': "Այստեղ բաւական դատարկ է:",
+		'uz': "Ha, bu yer ancha bo’sh."
     },
 	'here-comes-our': {
 		'en': "Here comes our first planet",
@@ -99,7 +102,8 @@ var translations = {
 		'zh': "第一颗行星就要来啦。",
 		'sv': "Här kommer vår första planet.",
 		'pl': "I oto zbliża się nasza pierwsza planeta.",
-		'hy': "Ահա եւ առաջին մոլորակը:"
+		'hy': "Ահա եւ առաջին մոլորակը:",
+		'uz': "Mana, birinchi sayyoramiz ko’rinmoqda."
 	},
 	'merclabel': {
 		'en': "Mercury",
@@ -119,7 +123,8 @@ var translations = {
 		'zh': "水星",
 		'sv': "Merkurius",
 		'pl': "Merkury",
-		'hy': "Փայլածու (Մերկուրի)"
+		'hy': "Փայլածու (Մերկուրի)",
+		'uz': "Merkuriy (Atorud)"
 	},
      'as-it-turns': {
 		 'en': "As it turns out, things are pretty far apart.",
@@ -139,7 +144,8 @@ var translations = {
 		'zh': "原来，一切都这么遥远。",
 		'sv': "Som vi ser, så är saker rätt långt ifrån varandra.",
 		'pl': "Wygląda na to, że rzeczy tutaj są od siebie bardzo oddalone.",
-		'hy': "Ինչպէս պարզւում է սրանք բաւական հեռու են իրարից:"
+		'hy': "Ինչպէս պարզւում է սրանք բաւական հեռու են իրարից:",
+		'uz': "Ko’rganingizdek, bu jismlar bir-biridan juda uzoqda."
     },
      'well-be-coming': {
 		 'en': "We’ll be coming up on a new planet soon. Sit tight.",
@@ -159,7 +165,8 @@ var translations = {
 		'zh': "坐稳了，我们很快要到一个新的行星了。",
 		'sv': "Vi kommer till en ny planet snart. Lugna bullar.",
 		'pl': "Niedługo będziemy się zbliżać do nowej planety. Siedź i się nie ruszaj.",
-		'hy': "Շուտով կ'հասնենք եւս մի նոր մոլորակի: Համբերէ՛ք:"
+		'hy': "Շուտով կ'հասնենք եւս մի նոր մոլորակի: Համբերէ՛ք:",
+		'uz': "Biroz sabr qiling, keyingi sayyoraga ham yaqinlashib bormoqdamiz."
     },
 	 'venuslabel': {
 		 'en': "Venus",
@@ -179,7 +186,8 @@ var translations = {
 		'zh': "金星",
 		'sv': "Venus",
 		'pl': "Wenus",
-		'hy': "Արուսեակ (Վեներա)"
+		'hy': "Արուսեակ (Վեներա)",
+		'uz': "Venera (Zuhra, Cho’lpon)"
 	 },
      'most-of-space': {
 		 'en': "Most of space is just space.",
@@ -199,7 +207,8 @@ var translations = {
 		'zh': "大部分空间只是空荡荡的。",
 		'sv': "Det mesta av rymden är bara rymd.",
 		'pl': "Większość przestrzeni kosmicznej to po prostu przestrzeń.",
-		'hy': "Տիեզերական տարածութեան մեծ մասը ուղղակի տարածութիւն է:"
+		'hy': "Տիեզերական տարածութեան մեծ մասը ուղղակի տարածութիւն է:",
+		'uz': "Asosan koinot bo’shliqdan iborat."
 		 
     },
      'halfway-home': {
@@ -220,7 +229,8 @@ var translations = {
 		'zh': "快到家啦",
 		'sv': "Halvvägs hem.",
 		'pl': "W połowie drogi do domu",
-		'hy': "Տուն հասնելու ճանապարհի կէսին ենք:"
+		'hy': "Տուն հասնելու ճանապարհի կէսին ենք:",
+		'uz': "Uygacha yarim yo’lni bosib o’tdik."
     },
     'earthlabel': {
 		 'en': "Earth",
@@ -240,7 +250,8 @@ var translations = {
 		'zh': "地球",
 		'sv': "Jorden",
 		'pl': "Ziemia",
-		'hy': "Երկիր"
+		'hy': "Երկիր",
+		'uz' : "Yer"
     },
      'you-are-here': {
        	'en': "(You are here)",
@@ -260,7 +271,8 @@ var translations = {
 		'zh': "(你在这里)",
 		'sv': "(Du är här)",
 		'pl': "(Tu jesteś)",
-		'hy': "(Դուք գտնւում էք այստեղ)"
+		'hy': "(Դուք գտնւում էք այստեղ)",
+		'uz': "(Siz shu yerdasiz)"
     }, 
 	  'moonlabel': {
        	'en': "Moon",
@@ -280,7 +292,8 @@ var translations = {
 		'zh': "月球",
 		'sv': "Månen",
 		'pl': "Księżyc",
-		'hy': "Լուսին"
+		'hy': "Լուսին",
+		'uz': "Oy"
     },
 	 'destination-mars': {
 		 'en': "Destination: Mars!",
@@ -300,7 +313,8 @@ var translations = {
 		'zh': "目的地：火星！",
 		'sv': "Destination: Mars!",
 		'pl': "Cel: Mars!",
-		'hy': "Նպատակավայր. Հրա՜տ: (Մարս)"
+		'hy': "Նպատակավայր. Հրա՜տ: (Մարս)",
+		'uz': "Keyingi bekat - Mars!"
     },
      'it-would-take': {
        	'en': "It would take about seven months to travel this distance in a spaceship.",
@@ -320,7 +334,8 @@ var translations = {
 		'zh': "坐宇宙飞船飞过这段距离都要花七个月时间。",
 		'sv': "Det skulle ta ungefär sju månader att resa det här avståndet i ett rymdskepp.",
 		'pl': "Podróż statkiem kosmicznym na taką odległość zajęłaby około siedmiu miesięcy.",
-		'hy': "Հարկ է մօտաւորապէս 7 ամիս, որպէսզի տիեզերանաւով անցնել այս հեռաւորութիւնը:"
+		'hy': "Հարկ է մօտաւորապէս 7 ամիս, որպէսզի տիեզերանաւով անցնել այս հեռաւորութիւնը:",
+		'uz': "Bu masofani fazoviy kemada bosib o’tish uchun tahminan 7 oy ketadi."
 		
     },
 	'better-be-some': {
@@ -341,7 +356,8 @@ var translations = {
 		'zh': "最好有点好玩的机上娱乐活动。",
 		'sv': "Bäst att ha något kul att syssla med.",
 		'pl': "Lepiej, żeby w czasie lotu można było się czymś rozerwać.",
-		'hy': "Յոյսով ենք, որ թռիչքի ընթացքում զբաղեցնում են:" 
+		'hy': "Յոյսով ենք, որ թռիչքի ընթացքում զբաղեցնում են:" ,
+		'uz': "Parvoz paytida ko’ngilochar dasturlar bo’lib turishiga umid qilamiz."
 	},
 	
 	'in-case-youre': {
@@ -362,7 +378,8 @@ var translations = {
 		'zh': "如果你想知道：你需要看大概2000部电影长片才能消磨掉旅途中醒着的时光。",
 		'sv': "Ifall du undrar så skulle du behöva ca 2000 långfilmer för att fylla så många vakna timmar.",
 		'pl': "Jakby cię to interesowało, potrzeba około 2 000 pełnometrażowych filmów, żeby wypełnić tę ilość czasu czuwania.",
-		'hy': "Մինչեւ հարց տաք, հարկաւոր է մօտաւորապէս 2000 լիամետրաժ ֆիլմ, որ ժամանակը սպանէք:"
+		'hy': "Մինչեւ հարց տաք, հարկաւոր է մօտաւորապէս 2000 լիամետրաժ ֆիլմ, որ ժամանակը սպանէք:",
+		'uz': "Qiziqayotgan bo’lsangiz, bu vaqtni o’ldirish uchun tahminan 2000 ta uzun metrajli film kerak bo’ladi."
 	},
 	'marslabel': {
 		'en': "Mars",
@@ -382,7 +399,8 @@ var translations = {
 		'zh': "火星",
 		'sv': "Mars",
 		'pl': "Mars",
-		'hy': "Հրատ (Մարս)"
+		'hy': "Հրատ (Մարս)",
+		'uz': "Mars (Mirrix)"
 	},
 	'sit-back-and': {
 		'en': "Sit back and relax. Jupiter is more than 3 times as far as we just traveled.",
