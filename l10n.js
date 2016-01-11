@@ -420,7 +420,8 @@ var translations = {
 		'zh': "找个舒服的姿势坐着，这里到木星的距离是我们已经走过距离的三倍。",
 		'sv': "Luta dig tillbaka och koppla av. Jupiter är mer än 3 gånger så långt bort som vi rest hittills.",
 		'pl': "Usiądź i zrelaksuj się. Jowisz jest ponad 3 razy dalej niż do tej pory zawędrowaliśmy.",
-		'hy': "Լուսնթագը (Իւպիտերը) աւելի քան 3 անգամ հեռու է մեր անցած հեռաւորութիւնից: Լաւ տեղաւորուէ՛ք եւ հանգստացէ՛ք:"
+		'hy': "Լուսնթագը (Իւպիտերը) աւելի քան 3 անգամ հեռու է մեր անցած հեռաւորութիւնից: Լաւ տեղաւորուէ՛ք եւ հանգստացէ՛ք:",
+		'uz': "Qulayroq joylashib oling. Yupiter biz o’tgan masofamizdan 3 marta uzoqda joylashgan."
 	},
 	
 	'when-are-we': {
@@ -441,7 +442,8 @@ var translations = {
 		'zh': "我们啥时候能到？",
 		'sv': "När kommer vi att vara framme?",
 		'pl': "Kiedy już tam będziemy?",
-		'hy': "Եր՞բ ենք արդէն տեղ հասնելու:"
+		'hy': "Եր՞բ ենք արդէն տեղ հասնելու:",
+		'uz': "Qachon yetib borar ekanmiz, a?"
 	},
 	'seriously-when-are': {
 		'en': "Seriously. When are we gonna be there?",
@@ -461,7 +463,8 @@ var translations = {
 		'zh': "说真的，我们啥时候能到木星？",
 		'sv': "Seriöst. När kommer vi att vara framme?",
 		'pl': "A tak serio, kiedy już tam będziemy?",
-		'hy': "Չէ, լուրջ: Եր՞բ ենք տեղ հասնելու:"
+		'hy': "Չէ, լուրջ: Եր՞բ ենք տեղ հասնելու:",
+		'uz': "Hazlsiz, yana ko’pmi?"
 	},
 	'this-is-where': {
 		'en': "This is where we might at least see some asteroids to wake us up.",
@@ -481,7 +484,8 @@ var translations = {
 		'zh': "这里本应有些小行星让我们打起精神。",
 		'sv': "Här kanske vi åtminstone kan få se ett par asteroider som kan väcka oss.",
 		'pl': "To jest miejsce, gdzie moglibyśmy zobaczyć przynajmniej asteroidy, które by nas zbudziły.",
-		'hy': "Սա այն տեղն է, որտեղ կարող էինք տեսնել աստղակերպներ (աստերոիդներ):"
+		'hy': "Սա այն տեղն է, որտեղ կարող էինք տեսնել աստղակերպներ (աստերոիդներ):",
+		'uz': "Bu yerda asteroidlar bo’lsa ham ko’zlarimizni quvontirsa bo’lardi."
 	},
 	'too-bad-theyre': {
 		'en': "Too bad they're all too small to appear on this map.",
@@ -501,7 +505,8 @@ var translations = {
 		'zh': "可惜它们太小了，在这地图上显示不出来。",
 		'sv': "Synd att de är alltför små för att visas på den här kartan.",
 		'pl': "Niestety są za małe, żeby je można było zaznaczyć na tej mapie.",
-		'hy': "Ցաւօք սրտի, նրանք շատ փոքր են որ երեւան այս քարտէզում:"
+		'hy': "Ցաւօք սրտի, նրանք շատ փոքր են որ երեւան այս քարտէզում:",
+		'uz': "Afsus, bu xaritada ularni ko’rish uchun ular juda ham kichkinalik qiladi."
 	},
 	'i-spy-with': {
 		'en': "I spy, with my little eye... something black.",
@@ -521,7 +526,8 @@ var translations = {
 		'zh': "黑夜给了我黑色的眼睛，却只能看见一片虚无~",
 		'sv': "Jag skådar med mitt öga... något svart.",
 		'pl': "Patrzę na... coś czarnego.",
-		'hy': "Գուշակէք թէ ի՞նչ եմ տեսնում.... մի սեւ բան: "
+		'hy': "Գուշակէք թէ ի՞նչ եմ տեսնում.... մի սեւ բան: ",
+		'uz': "Topingchi, men nimaga qarayapman?.. Qorong’ulikka."
 	},
 	'if-you-were': {
 		'en': "If you were on a road trip, driving at 75mi/hr, it would have taken you over 500 years to get here from earth.",
@@ -541,7 +547,8 @@ var translations = {
 		'zh': "假如你以120km/h的速度开车从地球出发，那你要花500年才能到这。",
 		'sv': "Om du åkte bil, i 120km/h, så skulle det ha tagit dig över 500 år att ta dig hit från jorden.",
 		'pl': "Gdyby jechać z prędkością 120 km/h, dotarcie tutaj z Ziemi zajęłoby ponad 500 lat.",
-		'hy': "Եթէ դուք վարէիք ինքնաշարժը մօտ 120 կմ/ժ արագութեամբ, Երկրից այստեղ հասնելը կ'տեւէր 500 տարի:"
+		'hy': "Եթէ դուք վարէիք ինքնաշարժը մօտ 120 կմ/ժ արագութեամբ, Երկրից այստեղ հասնելը կ'տեւէր 500 տարի:",
+		'uz': "Agar shosse bo’yicha soatiga 120 km tezlik bilan harakat qilganingizda, bu yergacha yetib olishingiz uchun 500 yil sarflar edingiz."
 	},
 	
 	'all-these-distances': {
@@ -562,7 +569,8 @@ var translations = {
 		'zh': "友情提示：这些距离都只是平均值。",
 		'sv': "Alla dessa avstånd är bara ungefärligheter, så du vet.",
 		'pl': "Pamiętaj, że wszystkie te odległości są tylko przybliżone.",
-		'hy': "Նկատի ունեցէ՛ք, բոլոր այս հեռաւորութիւնները միջին են:"
+		'hy': "Նկատի ունեցէ՛ք, բոլոր այս հեռաւորութիւնները միջին են:",
+		'uz': "Bu yerdagi barcha masofalar o’rtancha."
 	},
 	'the-distance-between': {
 		'en': "The distance between planets really depends on where the two planets are in their orbits around the sun. ",
@@ -582,7 +590,8 @@ var translations = {
 		'zh': "两颗行星间的实际距离取决于它们在公转轨道上的相对位置。",
 		'sv': "Avståndet mellan planeter beror egentligen på var de två planeterna är i sina banor runt solen.",
 		'pl': "Tak naprawdę odległość między planetami zależy od tego, gdzie te dwie planety znajdują się na swoich orbitach wokół Słońca.",
-		'hy': "Մոլորակների միջեւ հեռաւորութիւնը կախուած է, թէ որտեղ են գտնւում այդ 2 մոլորակները  իրենց ուղեծրերի վրայ:"
+		'hy': "Մոլորակների միջեւ հեռաւորութիւնը կախուած է, թէ որտեղ են գտնւում այդ 2 մոլորակները  իրենց ուղեծրերի վրայ:",
+		'uz': "Sayyoralar orasidagi masofa ularning har biri Quyoshga nisbatan orbitaning qaysi nuqtasida joylashganligiga bog’liq."
 	},
 	
 	'so-if-youre': {
@@ -603,7 +612,8 @@ var translations = {
 		'zh': "也就是说假如你想去木星玩玩，你可能要用个别的地图了。",
 		'sv': "Så om du planerar att ta en tur till Jupiter så kanske du vill använda en annan karta.",
 		'pl': "Więc jeżeli planujesz przejażdżkę na Jowisza, należy raczej użyć innej mapy.",
-		'hy': "Այսպիսով, եթէ մտադրուել էք ուղեւորութիւն կատարել Լուսնթագ (Իւպիտեր), աւելի լաւ կ'լինի գտնէք ուրիշ քարտէզ:"
+		'hy': "Այսպիսով, եթէ մտադրուել էք ուղեւորութիւն կատարել Լուսնթագ (Իւպիտեր), աւելի լաւ կ'լինի գտնէք ուրիշ քարտէզ:",
+		'uz': "Shuning uchun, Yupiterga sayohat qilmoqchi bo’lsangiz, boshqa xaritadan foydalanishingizga to’g’ri keladi."
 	},
 	'if-you-plan': {
 		'en': "If you plan it right, you can actually move relatively quickly between planets.",
@@ -623,7 +633,8 @@ var translations = {
 		'zh': "所以假如规划得当，你在行星间旅行会相对更快。",
 		'sv': "Om du planerar det rätt så kan du faktiskt röra dig relativt snabbt mellan planeter.",
 		'pl': "Jeśli zaplanujesz ją dobrze, możesz całkiem szybko przemieszczać się pomiędzy planetami.",
-		'hy': "Եթէ ճիշտ ծրագրաւորէք ուղեւորութիւնը, ապա կարելի է տեղ հասնել համեմատաբար արագ:"
+		'hy': "Եթէ ճիշտ ծրագրաւորէք ուղեւորութիւնը, ապա կարելի է տեղ հասնել համեմատաբար արագ:",
+		'uz': "Agar oldindan hamma narsa to’g’ri rejalashtirilsa, sayyoralarga tezroq yetib borishingiz mumkin."
 	},
 	'the-new-horizons': {
 		'en': "The New Horizons spacecraft that launched in 2006 only took 13 months to get to Jupiter.",
@@ -643,7 +654,8 @@ var translations = {
 		'zh': "比如2006年发射的新地平线号探测器只用了13个月就到了木星。",
 		'sv': "New Horizons rymdfarkost som sköts upp 2006 tog bara 13 månader för att komma till Jupiter. ",
 		'pl': "Dotarcie do Jowisza sondzie kosmicznej New Horizons, wystrzelonej w 2006 roku, zajęło tylko 13 miesięcy. ",
-		'hy': "«Նոր հորիզոններ» տիեզերանաւը, որն  ուղեւորուել է 2006 թ., հասաւ Լուսնթագ (Իւպիտեր) 13 ամսում:  "
+		'hy': "«Նոր հորիզոններ» տիեզերանաւը, որն  ուղեւորուել է 2006 թ., հասաւ Լուսնթագ (Իւպիտեր) 13 ամսում:  ",
+		'uz': "2006-yilda uchirtirilgan NASA ning “Yangi gorizontlar” (The New Horizons) fazoviy apparati Yupitergacha atigi 13 oy ichida yetib bordi."
 	},
 	
 	'dont-worry-itll': {
@@ -664,7 +676,8 @@ var translations = {
 		'zh': "别太担心，滚动条滚到木星的时间肯定比13个月短多了。",
 		'sv': "Oroa dig inte. Det tar mycket mindre än 13 månader att scrolla dit.",
 		'pl': "Nie martw się. Przewinięcie strony do tego miejsca zajmie dużo mniej niż 13 miesięcy.",
-		'hy': "Մի անհանգստացէ՛ք: 13 ամսից քիչ է տեւելու ոլորել այստեղ:"
+		'hy': "Մի անհանգստացէ՛ք: 13 ամսից քիչ է տեւելու ոլորել այստեղ:",
+		'uz': "Qo’rqmang. Ekranni 13 oydan ancha kam aylantirasiz."
 	},
 	'pretty-close-to': {
 		'en': "Pretty close to Jupiter now.",
@@ -684,7 +697,8 @@ var translations = {
 		'zh': "快到木星啦。",
 		'sv': "Rätt så nära Jupiter nu.",
 		'pl': "Teraz jesteśmy już całkiem blisko Jowisza.",
-		'hy': "Բաւականին մօտիկ ենք Լուսնթագին:"
+		'hy': "Բաւականին մօտիկ ենք Լուսնթագին:",
+		'uz': "Yupitergacha oz qoldi."
 	},
 	'sorry-that-was': {
 		'en': "Sorry. That was a lie before. Now we really are pretty close.",
@@ -704,7 +718,8 @@ var translations = {
 		'zh': "不好意思刚才撒了个小谎，现在才快到木星啦。",
 		'sv': "Förlåt. Det var en lögn. Nu är vi verkligen nära.",
 		'pl': "Przepraszam. Wcześniej to było kłamstwo. Teraz dopiero jesteśmy całkiem blisko.",
-		'hy': "Ներեցէ՛ք: Մինչեւ այդ սուտ էր: Իսկ հիմա իրօք քիչ մնաց Լուսնթագին:"
+		'hy': "Ներեցէ՛ք: Մինչեւ այդ սուտ էր: Իսկ հիմա իրօք քիչ մնաց Լուսնթագին:",
+		'uz': "Kechiring. Biz sizni aldadik. Endi rostdan ham juda yaqinmiz."
 	},
 	'jupiterlabel': {
 		'en': "Jupiter",
@@ -724,7 +739,8 @@ var translations = {
 		'zh': "木星",
 		'sv': "Jupiter",
 		'pl': "Jowisz",
-		'hy': "Լուսնթագ (Իւպիտեր)"
+		'hy': "Լուսնթագ (Իւպիտեր)",
+		'uz': "Yupiter (Mushtariy)"
 	},
 	'iolabel': {
 		'en': "Io",
@@ -744,7 +760,8 @@ var translations = {
 		'zh': "木卫一",
 		'sv': "Io",
 		'pl': "Io",
-		'hy': "Իօ"
+		'hy': "Իօ",
+		'uz': "Io"
 	},
 	'europalabel': {
 		'en': "Europa",
@@ -764,7 +781,8 @@ var translations = {
 		'zh': "木卫二",
 		'sv': "Europa",
 		'pl': "Europa",
-		'hy': "Եւրոպա"
+		'hy': "Եւրոպա",
+		'uz': "Yevropa"
 	},
 	'ganymedelabel': {
 		'en': "Ganymede",
@@ -784,7 +802,8 @@ var translations = {
 		'zh': "木卫三",
 		'sv': "Ganymede",
 		'pl': "Ganimedes",
-		'hy': "Գանիմեդ"
+		'hy': "Գանիմեդ",
+		'uz': "Ganimed"
 	},
 	'callistolabel': {
 		'en': "Callisto",
@@ -804,7 +823,8 @@ var translations = {
 		'zh': "木卫四",
 		'sv': "Callisto",
 		'pl': "Kallisto",
-		'hy': "Կալիստօ"
+		'hy': "Կալիստօ",
+		'uz': "Kalisto"
 	},
 	'lots-of-time': {
 		'en': "Lots of time to think out here...",
@@ -824,7 +844,8 @@ var translations = {
 		'zh': "在这里我们有很多时间思考…",
 		'sv': "Massor av tid att tänka här ute...",
 		'pl': "Mnóstwo czasu na przemyślenia...",
-		'hy': "Շատ ժամանակ կայ մտածելու համար..."
+		'hy': "Շատ ժամանակ կայ մտածելու համար...",
+		'uz': "Hayot haqida o’ylar surish uchun ancha vaqtingiz bor..."
 	},
 	'pop-the-champagne': {
 		'en': "Pop the champagne! We just passed 1 billion km.",
@@ -844,7 +865,8 @@ var translations = {
 		'zh': "拿香槟来庆祝一下！我们刚走过了十亿公里。",
 		'sv': "Korka upp champagnen! Vi passerade precis en miljard km.",
 		'pl': "Otwórz szampana! Właśnie przekroczyliśmy miliard km.",
-		'hy': "Գինին մառանից բերէ՛ք: Հէնց նոր անցանք 1 միլիարդ կմ:"
+		'hy': "Գինին մառանից բերէ՛ք: Հէնց նոր անցանք 1 միլիարդ կմ:",
+		'uz': "Shampanni ochamiz! Biz hozirgina 1 milliard km masofani bosib o’tdik."
 	},
 	
 	'i-guess-this': {
@@ -865,7 +887,8 @@ var translations = {
 		'zh': "我猜这就是为什么大部分太阳系地图都不会按比例来画。",
 		'sv': "Jag antar att det är därför dom flesta kartor av solsystemet inte är ritade till skala.",
 		'pl': "Wydaje mi się, że znam powód, dla którego większość map nie ma zachowanej skali.",
-		'hy': "Երեւի այդ իսկ պատճառով Արեգակնային համակարգի քարտէզները մեծ մասամբ չեն նկարում համաչափօրէն:"
+		'hy': "Երեւի այդ իսկ պատճառով Արեգակնային համակարգի քարտէզները մեծ մասամբ չեն նկարում համաչափօրէն:",
+		'uz': "O’ylashimcha, ko’pgina Quyosh tizimi xaritalari aynan shu sababli imasshtabga bog’lanmagan holda chiziladi."
 	},
 	
 	'its-not-hard': {
@@ -886,7 +909,8 @@ var translations = {
 		'zh': "按比例画行星倒不难。",
 		'sv': "Det är inte svårt att rita planeterna.",
 		'pl': "Nie jest trudno narysować planety.",
-		'hy': "Մոլորակներ նկարելը դժուար  չէ:"
+		'hy': "Մոլորակներ նկարելը դժուար  չէ:",
+		'uz': "Sayyoralarni chizish qiyin emas."
 	},
 	
 	'its-the-empty': {
@@ -907,7 +931,8 @@ var translations = {
 		'zh': "这之间的空间是个问题。",
 		'sv': "Det är den tomma rymden som är problemet.",
 		'pl': "Problemem jest pusta przestrzeń.",
-		'hy': "Իսկ նրանց միջեւ դատարկ տարածութիւնը՝ ահա որն է դժուարութիւնը:"
+		'hy': "Իսկ նրանց միջեւ դատարկ տարածութիւնը՝ ահա որն է դժուարութիւնը:",
+		'uz': "Ular orasidagi bo’shliqni tasvirlash muammo."
 	},
 	
 	'most-space-charts': {
@@ -928,7 +953,8 @@ var translations = {
 		'zh': "大部分天文图都遗漏了最重要的部分 —— 所有空间。",
 		'sv': "De flesta rymdkartor utelämnar den viktigaste delen – all rymd.",
 		'pl': "Większość wykresów przestrzeni kosmicznej opuszcza najistotniejszą część - całą przestrzeń.",
-		'hy': "Հիմնականում տիեզերքի քարտէզները բաց են թողնում մէկ կարեւոր բան՝  տիեզերքը:"
+		'hy': "Հիմնականում տիեզերքի քարտէզները բաց են թողնում մէկ կարեւոր բան՝  տիեզերքը:",
+		'uz': "Ko’pgina fazo xaritalarida eng asosiy narsa diqqatdan holi - aynan fazoning o’zi."
 	},
 	
 	'were-used-to': {
@@ -949,7 +975,8 @@ var translations = {
 		'zh': "我们在比这小得多的范围上处理事情。",
 		'sv': "Vi är vana vid att hantera saker på en mycket mindre skala än det här.",
 		'pl': "Przyzwyczajeni jesteśmy do zajmowania się rzeczami w dużo mniejszej skali niż to.",
-		'hy': "Մենք սովորել ենք գործ ունենալ աւելի փոքր չափսեր ունեցող առարկաներին քան սրանք են:"
+		'hy': "Մենք սովորել ենք գործ ունենալ աւելի փոքր չափսեր ունեցող առարկաներին քան սրանք են:",
+		'uz': "Bunga qaraganda, biz ancha kichik masshtabda bo’lgan narsalar bilan ishlashga o’rganib qolganmiz."
 	},
 	
 	'when-it-comes': {
@@ -970,7 +997,8 @@ var translations = {
 		'zh': "当我们研究的问题是地球的年龄、西伯利亚的雪花、美国国债…",
 		'sv': "När det kommer till saker som jordens ålder, antalet snöflingor i Sibirien, statsskulden ...",
 		'pl': "Gdy przychodzi nam zmierzyć się z rzeczami takimi jak wiek Ziemi, ilość płatków śniegu na Syberii, dług publiczny...",
-		'hy': "Երբ խօսքը գնում է Երկրի տարիքի մասին, Սիբիրի ձեան փաթիլների քանակի մասին, ԱՄՆ պետական պարտքի մասին..."
+		'hy': "Երբ խօսքը գնում է Երկրի տարիքի մասին, Սիբիրի ձեան փաթիլների քանակի մասին, ԱՄՆ պետական պարտքի մասին...",
+		'uz': "Yerning yoshi, Sibirdagi qor parchalari soni, tashqi qarz miqdori haqida gap ketganda..."
 	},
 	'those-things-are': {
 		'en': "Those things are too much for our brains to handle. ",
@@ -990,7 +1018,8 @@ var translations = {
 		'zh': "这些数字对于我们的大脑来说还是太大了。",
 		'sv': "De här är för mycket för våra hjärnor att hantera.",
 		'pl': "Te rzeczy są zbyt wielkie dla naszych umysłów, aby móc je ogarnąć.",
-		'hy': "Այս ամէնը չափազանց  հսկայական է մեր գլխում տեղաւորելու համար: "
+		'hy': "Այս ամէնը չափազանց  հսկայական է մեր գլխում տեղաւորելու համար: ",
+		'uz': "Bularning hammasini miyamiz ilg’ab olishi uchun ko’plik qiladi."
 	},
 	'saturnlabel': {
 		'en': "Saturn",
@@ -1010,7 +1039,8 @@ var translations = {
 		'zh': "土星",
 		'sv': "Saturnus",
 		'pl': "Saturn",
-		'hy': "Երեւակ (Սատուրն)"
+		'hy': "Երեւակ (Սատուրն)",
+		'uz': "Saturn (Zuhal)"
 	},
 		'titanlabel': {
 		'en': "Titan",
@@ -1030,7 +1060,8 @@ var translations = {
 		'zh': "土卫六",
 		'sv': "Titan",
 		'pl': "Tytan",
-		'hy': "Տիտան"
+		'hy': "Տիտան",
+		'uz': "Titan"
 	},
 	'we-need-to': {
 		'en': "We need to reduce things down to something we can see or experience directly in order to understand them.",
@@ -1050,7 +1081,8 @@ var translations = {
 		'zh': "为了理解大的东西，我们需要把它们分解成我们能直接看到或是体验的小东西。",
 		'sv': "Vi behöver minska ner saker till något som vi kan se eller uppleva direkt för att förstå dem.",
 		'pl': "Żeby zrozumieć rzeczy musimy je zmniejszyć do skali, w której jesteśmy w stanie zobaczyć je lub bezpośrednio doświadczyć.",
-		'hy': "Որպէսզի հասկանանք այդպիսի բաները հարկ է իրերը փոքրացնել այնքան,  որ կարողանանք տեսնել կամ անմիջապէս զգալ դրանք: "
+		'hy': "Որպէսզի հասկանանք այդպիսի բաները հարկ է իրերը փոքրացնել այնքան,  որ կարողանանք տեսնել կամ անմիջապէս զգալ դրանք: ",
+		'uz': "Bunday narsalarni anglash uchun, ularni ko’rish yoki his qilish darajasigacha keltirishimiz zarur."
 	},
 	'were-always-trying': {
 		'en': "We're always trying to come up with metaphors for big numbers. Even so, they never seem to work.",
@@ -1070,7 +1102,8 @@ var translations = {
 		'zh': "比如说我们总会打比方。虽然这看起来毫无作用。",
 		'sv': "Vi försöker alltid att komma på metaforer för stora siffror. Trots detta så verkar dom aldrig fungera.",
 		'pl': "Zawsze staramy się wymyślić metafory dla wielkich liczb. Mimo tego one nigdy nie działają.",
-		'hy': "Մենք միշտ փորձում ենք յօրինել փոխաբերութիւններ մեծ թուերի համար, որ հասկանալի լինեն: Սակայն, դա չի օգնում:"
+		'hy': "Մենք միշտ փորձում ենք յօրինել փոխաբերութիւններ մեծ թուերի համար, որ հասկանալի լինեն: Սակայն, դա չի օգնում:",
+		'uz': "Yirik sonlarni tushuntirish uchun doimo metaforalar o’ylab topamiz. Lekin bu deyarli hech qachon yordam bermaydi."
 	},
 	'lets-try-a': {
 		'en': "Let's try a few metaphors anyway...",
@@ -1090,7 +1123,8 @@ var translations = {
 		'zh': "让我们来打几个比方…",
 		'sv': "Låt oss prova några metaforer i alla fall...",
 		'pl': "Mimo wszystko spróbujmy kilku metafor...",
-		'hy': "Այնուհանդերձ, եկէք մի քանի փոխաբերութիւններ յորինենք...."
+		'hy': "Այնուհանդերձ, եկէք մի քանի փոխաբերութիւններ յորինենք....",
+		'uz': "Keling, bir-ikkita shunday metaforalarga misol keltiramiz..."
 	},
 	'you-would-need': {
 		'en': "You would need ",
@@ -1110,7 +1144,8 @@ var translations = {
 		'zh': "要显示完整的地图，你需要 ",
 		'sv': "Du skulle behöva ",
 		'pl': "Potrzeba ",
-		'hy': "Մօտաւորապէս հարկաւոր է "
+		'hy': "Մօտաւորապէս հարկաւոր է ",
+		'uz': "Butun xaritani to’liq ko’rsatish uchun sizga "
 	},
 	'of-these-screens': {
 		'en': " of these screens lined up side-by-side to show this whole map at once.",
@@ -1130,7 +1165,8 @@ var translations = {
 		'zh': " 个屏幕一个接一个连在一起。",
 		'sv': " av dessa skärmar uppradade sida vid sida för att visa hela kartan på en gång.",
 		'pl': " takich ekranów ustawionych obok siebie w jednej linii, żeby pokazać całą mapę za jednym razem.",
-		'hy': " այսպիսի էկրան շարուած կողք-կողքի, որ այս քարտէզը միաժամանակ ցոյց տալ: "
+		'hy': " այսպիսի էկրան շարուած կողք-կողքի, որ այս քարտէզը միաժամանակ ցոյց տալ: ",
+		'uz': " ketma-ket kelgan siz ishlatayotgan ekranlar kerak bo’ladi."
 	},
 	'if-this-map': {
 		'en': "If this map was printed from a quality printer (300 pixels per inch) the earth would be almost invisible, and the width of the paper would need to be 475 feet.",
@@ -1150,7 +1186,8 @@ var translations = {
 		'zh': "假如用好的打印机来打印这张地图（每英寸300个像素），我们就能在纸上看得到地图，整张纸的宽度大概会有475英尺。",
 		'sv': "Om kartan trycktes från en kvalitets skrivare (300 pixlar per tum) så skulle jorden vara osynlig, och bredden på papperet skulle behöva vara 144.78 meter.",
 		'pl': "Gdyby ta mapa została wydrukowana na wysokiej jakości drukarce (300 pikseli na cal) Ziemia byłaby niewidoczna, a szerokość papieru wyniosłaby 145 metrów.",
-		'hy': "Եթէ այս քարտէզը լաւ տպիչով տպագրուած լինէր (300 լուսակէտիկներ/մատնաչափին), Երկիրը չէր երեւայ, իսկ թերթի լայնութիւնը կ'լինէր 145 մ:" 
+		'hy': "Եթէ այս քարտէզը լաւ տպիչով տպագրուած լինէր (300 լուսակէտիկներ/մատնաչափին), Երկիրը չէր երեւայ, իսկ թերթի լայնութիւնը կ'լինէր 145 մ:" ,
+		'uz': "Bu xarita yaxshi printerda (bir dyuymga 300 piksel) chop etilsa, Yer ko’rinmasdi, varaqning eni esa 145 metr bo’lar edi."
 	},
 	'475-feet-is': {
 		'en': "475 feet is about 1 and 1/2 football fields.",
@@ -1170,7 +1207,8 @@ var translations = {
 		'zh': "475 英尺（144.78m）大概是一个半足球场的长度。",
 		'sv': "144.78 meters är ungefär 1 och 1/2 fotbollsplan. ",
 		'pl': "145 metrów to mniej więcej półtorej długości boiska do piłki nożnej.",
-		'hy': "145 մ – մօտաւորապէս մէկուկէս Ֆուտբոլային դաշտ է:"
+		'hy': "145 մ – մօտաւորապէս մէկուկէս Ֆուտբոլային դաշտ է:",
+		'uz': "145 metr bu tahminan bir yarimta futbol maydoni."
 	},
 	'even-though-we': {
 		'en': "Even though we don’t really understand them, a lot can happen within these massive lengths of time and space.",
@@ -1190,7 +1228,8 @@ var translations = {
 		'zh': "即使我们并没有搞明白，在这广阔的时空里可以发生许多事情。",
 		'sv': "Även om vi inte riktigt förstår dem, kan mycket hända inom dessa massiva längder av tid och rum.",
 		'pl': "W tak wielkich odmętach czasu i przestrzeni wiele rzeczy może się wydarzyć, nawet jeżeli tak naprawdę do końca ich nie rozumiemy.",
-		'hy': "Թէեւ մենք իրականում չենք հասկանում դա, շատ բան կարող է լինել  ժամանակի եւ տարածութեան վիթխարի հատուածներում:"
+		'hy': "Թէեւ մենք իրականում չենք հասկանում դա, շատ բան կարող է լինել  ժամանակի եւ տարածութեան վիթխարի հատուածներում:",
+		'uz': "Biz bunday narsalarni tasavvur qila olmasak ham, bunday yirik bo’shliq va vaqt kesimlari o’z ichiga ko’p narsani sig’dira oladi."
 	},
 	
 	'a-drop-of': {
@@ -1211,7 +1250,8 @@ var translations = {
 		'zh': "一滴水能开出峡谷。",
 		'sv': "En vattendroppe kan skapa en dalgång.",
 		'pl': "Krople wody mogą wydrążyć kanion.",
-		'hy': "Ջրի մի կաթիլը կարող է կիրճ ձեւաւորել:"
+		'hy': "Ջրի մի կաթիլը կարող է կիրճ ձեւաւորել:",
+		'uz': "Bir tomchi suv kanyonni shakllantirishi mumkin."
 	},
 	'an-amoeba-can': {
 		'en': "An amoeba can become a dolphin.",
@@ -1231,7 +1271,8 @@ var translations = {
 		'zh': "一个变形虫能变成海豚。",
 		'sv': "En amöba kan bli till en delfin.",
 		'pl': "Ameba może stać się delfinem.",
-		'hy': "Փոխակենսիկը կարող է դառնալ դելֆին:"
+		'hy': "Փոխակենսիկը կարող է դառնալ դելֆին:",
+		'uz': "Amyoba delfinga aylanishi mumkin."
 	},
 	'a-star-can': {
 		'en': "A star can collapse on itself. ",
@@ -1251,7 +1292,8 @@ var translations = {
 		'zh': "一颗星星会坍塌。",
 		'sv': "En stjärna kan kollapsa in i sig själv.",
 		'pl': "Gwiazda może zapaść się do środka.",
-		'hy': "Աստղը կարող է ինքն իրեն փլուզուել:"
+		'hy': "Աստղը կարող է ինքն իրեն փլուզուել:",
+		'uz': "Yulduz o’z ichiga yutinishi mumkin."
 	},
 	'its-easy-to': {
 		'en': "It’s easy to disregard nothingness because there’s no thought available to encapsulate it. There’s no metaphor that fits because, by definition, once the nothingness becomes tangible, it ceases to exist.",
@@ -1271,7 +1313,8 @@ var translations = {
 		'zh': "因为没有任何概念可以准确表示虚无，所以我们很容易就忽略了它。也没有比喻能描述虚无，因为根据定义，只要虚无被描述了出来，它就不是虚无了。",
 		'sv': "Det är lätt att bortse från intet, eftersom det inte finns nån tanke som kan kapsla in det. Det finns ingen metafor som passar eftersom, per definition, när intet blir påtagligt, så upphör det att existera.",
 		'pl': "Łatwo jest nam pominąć nicość, ponieważ nie potrafimy jej ogarnąć naszą myślą. Nie ma dla niej metafory, bo jeżeli nicość stanie się namacalna, to z definicji przestaje istnieć.",
-		'hy': "Հեշտ է արհամարհել ոչնչութիւն, որովհետեւ գլխի մէջ չի տեղաւորւում:  Չես կարող յարմար փոխաբերութիւն գտնել, ըստ  սահմանման, հէնց որ ոչնչութիւնը դառնայ շօշափելի՝ նա կ'դադարի գոյութիւն ունենալ:"
+		'hy': "Հեշտ է արհամարհել ոչնչութիւն, որովհետեւ գլխի մէջ չի տեղաւորւում:  Չես կարող յարմար փոխաբերութիւն գտնել, ըստ  սահմանման, հէնց որ ոչնչութիւնը դառնայ շօշափելի՝ նա կ'դադարի գոյութիւն ունենալ:",
+		'uz': "Bo’shliqni hisobdan chiqarish juda oson. Chunki u sig’adigan hech qanday fikr mavjud emas. Bunga metafora keltirib bo’lmaydi - bo’shliq endigina sezilarni bo’lganda, u mavjud bo’lishidan to’xtaydi."
 	},
 	
 	'its-a-good': {
@@ -1292,7 +1335,8 @@ var translations = {
 		'zh': "我们能看到这些微小的恒星和行星真的是挺好的，否则我们就没有任何参考点了。",
 		'sv': "Det är bra att vi har dessa små stjärnor och planeter, annars skulle vi inte ha någon referenspunkt alls.",
 		'pl': "Dobrze, że mamy te małe gwiazdy i planety, w przeciwnym wypadku nie mielibyśmy żadnego punktu odniesienia.",
-		'hy': "Լաւ է  որ մենք ունենք այս փոքր աստղերը եւ մոլորակները, այլապէս չէինք ունենայ յղման կէտեր:"
+		'hy': "Լաւ է  որ մենք ունենք այս փոքր աստղերը եւ մոլորակները, այլապէս չէինք ունենայ յղման կէտեր:",
+		'uz': "Hali ham bizda bu mitti yulduz va sayyoralar bor, aks holda bizda hech qanday sanoq nuqtasi bo’lmas edi."
 	},
 	
 	'wed-be-surrounded': {
@@ -1313,7 +1357,8 @@ var translations = {
 		'zh': "我们被我们大脑不能理解的东西包围了。",
 		'sv': "Vi skulle vara omgivna av det här som våra sinnen inte byggdes för att förstå.",
 		'pl': "Bylibyśmy otoczeni przez coś, czego nasze umysły nie byłyby w stanie zrozumieć, bo nie zostały do tego stworzone.",
-		'hy': "Մեզ կ'շրջապատէր այն բանը, որը մեր միտքը  ընտելացուած չէ հասկանալու:"
+		'hy': "Մեզ կ'շրջապատէր այն բանը, որը մեր միտքը  ընտելացուած չէ հասկանալու:",
+		'uz': "O’shanda bizning idrokimiz qabul qila olmaydigan narsa bizni qamrab olardi."
 	},
 	'all-this-emptiness': {
 		'en': "All this emptiness really could drive you nuts. For instance, if you’re in a sensory deprivation tank for too long, your brain starts to make things up. You see and hear things that aren’t there.",
@@ -1333,7 +1378,8 @@ var translations = {
 		'zh': "这个空虚的世界很容易让你发疯。举个例子，假如你在一个五感尽失的大缸子里呆久了，你的大脑就会产生幻觉，你会看到或是听到根本不存在的东西。",
 		'sv': "All denna tomhet skulle verkligen göra dig knäpp. Till exempel, om du är i en flyttank för länge så börjar din hjärna att hitta på saker. Du ser och hör saker som inte finns där.",
 		'pl': "Cała ta pustka może łatwo doprowadzić cię do szału. Na przykład jeżeli znajdujesz się w komorze deprywacji sensorycznej zbyt długo, twój mózg zaczyna tworzyć wydarzenia. Widzisz i słyszysz rzeczy, których nie ma.",
-		'hy': "Այս դատարկութիւնը կարող է խելագարեցնել: Օրինակ՝ եթէ դուք լինէիք զգացական զրկման խցում՝ ձեր ուղեղը կ'սկսէր յօրինել:  Դուք տեսնում եւ լսում էք այն, ինչ-որ չկայ: "
+		'hy': "Այս դատարկութիւնը կարող է խելագարեցնել: Օրինակ՝ եթէ դուք լինէիք զգացական զրկման խցում՝ ձեր ուղեղը կ'սկսէր յօրինել:  Դուք տեսնում եւ լսում էք այն, ինչ-որ չկայ: ",
+		'uz': "Bu bo’shliq bizni aqldan ozdira olishi juda oson. Misol uchun, uzoq vaqt mobaynida sensorli deprivatsiya bakida yotib tursangiz, miyangiz hissiyotlarni o’ylab topishni boshlaydi. Siz mavjud bo’lmagan narsalarni ko’rish va his qilishingizni boshlaysiz."
 	},
 	'the-brain-isnt': {
 		'en': "The brain isn't built to handle \"empty.\" ",
@@ -1353,7 +1399,8 @@ var translations = {
 		'zh': "所以说大脑是理解不了虚无的。",
 		'sv': "Hjärnan är inte gjord för att hantera ”tomhet”.",
 		'pl': "Mózg nie jest stworzony, żeby obsłużyć \"pustkę.\"",
-		'hy': "Ուղեղը ընտելացուած չէ գլուխ հանել «դատարկ» գաղափարից:"
+		'hy': "Ուղեղը ընտելացուած չէ գլուխ հանել «դատարկ» գաղափարից:",
+		'uz': "Miya bo’shliq ideyasi bilan ishlashga o’rganmagan."
 	},
 	'sorry-humanity-says': {
 		'en': "\"Sorry, Humanity,\" says Evolution. \"What with all the jaguars trying to eat you, the parasites in your fur, and the never-ending need for a decent steak, I was a little busy. I didn’t exactly have time to come up with a way to conceive of vast stretches of nothingness.\" ",
@@ -1373,7 +1420,8 @@ var translations = {
 		'zh': "“不好意思，人类们。”进化如此说道，“因为要对付这些想吃你们的老虎、你们毛发里的寄生虫、以及永不停歇对吃吃吃的渴望，我有点忙。我并没有这个时间来让你们理解虚无。”",
 		'sv': "”Tyvärr, Mänskligheten,” säger Evolutionen. ”Med tanke på alla jaguarer som försöker att äta upp er, parasiterna i er päls, och det eviga suget efter en anständig biff, så var jag lite upptagen. Jag har inte precis haft tid till att komma på ett sätt att föreställa sig väldiga sträckor av intet.”",
 		'pl': "\"Przepraszam cię, Ludzkość\" - mówi Ewolucja. \"Jestem trochę zajęta tymi wszystkimi jaguarami, które próbują ciebie zjeść, pasożytami w twoim futrze i niekończącą się potrzebą zdobycia przyzwoitego kawałka mięcha. Nie miałam za bardzo czasu na wymyślenie sposobu pojmowania rozległych obszarów nicości.\"",
-		'hy': "«Ներողութիւն, Մարդկային ցեղ», ասում է էւոլուցիան. «Քեզ փորձում էին ուտել գազանները, մորթուդ մէջ լցւում էին մակաբոյծները, համեղ մսի անվերջ պահանջդ....Ես զբաղուած էի: Ժամանակ չունէի  անսահման դատարկ տարածութեան ըմբռնումին հասնել: "
+		'hy': "«Ներողութիւն, Մարդկային ցեղ», ասում է էւոլուցիան. «Քեզ փորձում էին ուտել գազանները, մորթուդ մէջ լցւում էին մակաբոյծները, համեղ մսի անվերջ պահանջդ....Ես զբաղուած էի: Ժամանակ չունէի  անսահման դատարկ տարածութեան ըմբռնումին հասնել: ",
+		'uz': "“Odamzod, meni kechir,” - deydi Evolyutsiya. “Men band edim: seni doimo yaguarlar yemoqchi bo’lgan, sening mo’ynangda parazitlar paydo bo’lardi, har kuni sen yaxshigina qovurilgan go’sht haqida o’ylar eding. Sen uchun cheksiz bo’sh bo’shliqni anglay oladigan organni o’ylab topishga vaqtim bo’lmadi.”"
 	},
 	'neurologically-speaking-we': {
 		'en': "Neurologically speaking, we really only deal with matter of a certain size, and energy of a few select wavelengths. For everything else, we have to make up mental models and see if they match up to the tiny shreds of hard evidence that actually feel real. ",
@@ -1393,7 +1441,8 @@ var translations = {
 		'zh': "从神经学上说，我们只能处理某几个特定大小、特定能量的波长。对于我们处理不了的其它东西，我们得编一些抽象的模型，然后努力地把它们往我们能理解的东西上靠。",
 		'sv': "Neurologiskt sett har vi egentligen bara att göra med materia av en viss storlek, och energi av ett fåtal våglängder. För allt annat, måste vi göra upp mentala modeller och se om de når upp till de små strimlor av konkreta bevis som faktiskt känns verkligt.",
 		'pl': "Patrząc z punktu widzenia neurologii zajmujemy się tylko materią, która ma pewną określoną wielkość, i energią tylko niektórych długości fal. Wszystko inne wymaga od nas stworzenia pewnych myślowych modeli i sprawdzenia, czy dobrze pasują one do drobnych strzępków twardych dowodów, które odczuwamy jako prawdziwe.",
-		'hy': "Ըստ  նեարդաբանութեան, մենք ընկալում ենք որոշ չափսերի նիւթեր եւ մի քանի ընտրեալ երկարութեան ալիքների էներգիա: Մնացածի համար հարկաւոր է ստեղծել մտային նախատիպեր, եւ ստուգել, արդեօք համապատասխանում են ծանրակշիռ ապացոյցի իրական թուացող չնչին մասնիկներին:  "
+		'hy': "Ըստ  նեարդաբանութեան, մենք ընկալում ենք որոշ չափսերի նիւթեր եւ մի քանի ընտրեալ երկարութեան ալիքների էներգիա: Մնացածի համար հարկաւոր է ստեղծել մտային նախատիպեր, եւ ստուգել, արդեօք համապատասխանում են ծանրակշիռ ապացոյցի իրական թուացող չնչին մասնիկներին:  ",
+		'uz': "Nevrologiya nuqtai nazari, biz faqat ma'lum bir hajmdagi materiyani va qisqa spektrdagi energiyani qabul qilamiz. Boshqa barcha narsalar uchun biz hayoliy modellar qurib ularni bizga real tuyulayotgan eksperimental xulosalarning juda kichik qismiga moslashtirishga majburmiz."
 	},
 	
 	'the-mental-models': {
@@ -1414,7 +1463,8 @@ var translations = {
 		'zh': "数学里的概念模型对理解这么长的距离有特别大的帮助，但是…",
 		'sv': "De mentala modeller som tillhandahålls av matematiken är mycket användbara när man försöker förstå dessa stora avstånd, men ändå...",
 		'pl': "Modele myślowe dostarczane przez matematyków są niesłychanie przydatne, gdy próbujemy nadać sens tym bezkresnym rozległym odległościom, ale wciąż...",
-		'hy': "Մաթեմատիկաից տրուած մտային նախատիպերը շատ օգտակար են անսահման հեռաւորութիւնները բացատրելու համար, բայց միեւնոյն է..."
+		'hy': "Մաթեմատիկաից տրուած մտային նախատիպերը շատ օգտակար են անսահման հեռաւորութիւնները բացատրելու համար, բայց միեւնոյն է...",
+		'uz': "Bizga matematika bergan hayoliy modellar bunday gigant masofalarni tushuntirish uchun juda foydali, biroq..."
 	},
 	
 	'abstraction-is-pretty': {
@@ -1435,7 +1485,8 @@ var translations = {
 		'zh': "抽象法还是不能令人满意。",
 		'sv': "Abstraktion är ganska otillfredsställande.",
 		'pl': "Abstrakcja jest bardzo niezadowalająca.",
-		'hy': "Վերացութիւնը չի բաւարարում:"
+		'hy': "Վերացութիւնը չի բաւարարում:",
+		'uz': "Abstraksiyalar yetarli darajada qoniqtirmaydi."
 	},
 	
 	'when-you-hear': {
@@ -1456,7 +1507,8 @@ var translations = {
 		'zh': "当你听到别人讲起“这个宇宙的奥妙太多了啊！我们根本没办法了解的”这一般是一个科幻小说里UFO或者超能力故事的开头，假如你晚上看这个的话你肯定会睡不着。",
 		'sv': "När man hör folk prata om hur, “det finns mer till detta universum än vad våra sinnen kan föreställa sig” så är det oftast ett sätt att få dig att gå med på en halvbakad fantasi om UFOs eller super-krafter i en sci-fi-serie som du tittar sent på natten när du inte kan sova. ",
 		'pl': "Gdy słyszysz jak ludzie mówią: \"jest więcej rzeczy we wszechświecie, niż nasz umysł może sobie wyobrazić\" to przeważnie jest to sposób, aby przekonać cię do nie do końca przemyślanej historii o UFO lub super mocy z jakiegoś serialu sci-fi, który oglądasz późną nocą nie mogąc zasnąć.",
-		'hy': "Երբ լսում ես. «Տիեզերքը պարունակում է աւելին, քան մենք կարող ենք պատկելացնել», ընդհանրապէս խօսքը գնում է ՉԹԱՅ-ների կամ  գերընդունակութիւնների մասին կեղծ գիտական հաղորդումներից, որոնք նայում ենք ուշ գիշերները, երբ չենք կարողանում քնել: "
+		'hy': "Երբ լսում ես. «Տիեզերքը պարունակում է աւելին, քան մենք կարող ենք պատկելացնել», ընդհանրապէս խօսքը գնում է ՉԹԱՅ-ների կամ  գերընդունակութիւնների մասին կեղծ գիտական հաղորդումներից, որոնք նայում ենք ուշ գիշերները, երբ չենք կարողանում քնել: ",
+		'uz': "“Borliq biz tasavvur qilganimizdan ko’prog’ini o’z ichiga oladi”, degan gaplarni eshitganimizda, bu odatda uyqusizlikdan yarim tunda ko’rilayotgan “B” kategoriyasiga kirgan fantastik filmdagi NLO yoki ekstrasenslar haqidagi psevdoilmiy teoriyalariga kirish qismi bo’ladi."
 	},
 	
 	'even-when-shakespeare': {
@@ -1477,7 +1529,8 @@ var translations = {
 		'zh': "莎士比亚曰过：“在这天地间有许多事情是人类哲学所不能解释的。”这肯定是他为了增加鬼故事可信度而卖的破绽。",
 		'sv': "Även när Shakespeare skrev: “Det finns fler saker i himmel och jord, Horatio, Än som drömts fram i din filosofi” - han försöker i grund och botten ge oss ett kryphål för att göra spöket i historien mer trovärdig. ",
 		'pl': "Nawet gdy Szekspir pisał: \"Są rzeczy na niebie i ziemi, o których się filozofom nie śniło\" - w zasadzie starał się stworzyć furtkę w naszym myśleniu, żebyśmy łatwiej uwierzyli w ducha, który pojawia się w tej historii.",
-		'hy': "Նոյնիսկ Շեքսպիրն է գրել. «Որքան բաներ կան, Հորացիօ, երկնքում եւ երկրի վրայ, որ երբեւիցէ իմաստասիրութիւնդ չի էլ երազել»: Նա, փաստօրէն,  դրանով փորձում էր թաթերական երկի ուրուականին աւելի հաւատալի դարձնել:"
+		'hy': "Նոյնիսկ Շեքսպիրն է գրել. «Որքան բաներ կան, Հորացիօ, երկնքում եւ երկրի վրայ, որ երբեւիցէ իմաստասիրութիւնդ չի էլ երազել»: Նա, փաստօրէն,  դրանով փորձում էր թաթերական երկի ուրուականին աւելի հաւատալի դարձնել:",
+		'uz': "Hattoki Shekspir: “Dunyoda donishmadlarimiz tushlariga ham kirmagan ko’p narsa mavjud, do’stim Goratsiyo”, deb yozganlarida ham, u, aslida, bizni pyesadagi arvoh mavjudligiga ishontirmochi bo’lgan."
 	},
 	
 	'uranuslabel': {
@@ -1498,7 +1551,8 @@ var translations = {
 		'zh': "天王星",
 		'sv': "Uranus",
 		'pl': "Uran",
-		'hy': "Ուրան"
+		'hy': "Ուրան",
+		'uz': "Uran"
 	},
 	
 	'but-all-this': {
@@ -1519,7 +1573,8 @@ var translations = {
 		'zh': "总而言之我们的大脑是理解不了所有这些虚空、这些大范围的东西的。这幅地图、这些隐喻也没办法给讨个公道。",
 		'sv': "Men allt detta tomrum, dessa ting av massiv skala, är egentligen mer än våra sinnen kan uppfatta. Kartor och metaforer misslyckas med att göra dem rättvisa.",
 		'pl': "Ale ta cała wielka pusta przestrzeń, te rzeczy o ogromnej skali są czymś, co przekracza możliwości pojmowania naszych umysłów. Plany i metafory nie są wystarczające aby w pełni je uprawomocnić.",
-		'hy': "Բայց, իրօք, այս ամբողջ դատարկ տարածութիւնը, այս վիթխարի, հսկայական բաները  անհասկանալի են մեզ համար: Քարտէզները եւ փոխաբերութիւնները չեն կարող դրանց ամբողջական պատկերը տալ: "
+		'hy': "Բայց, իրօք, այս ամբողջ դատարկ տարածութիւնը, այս վիթխարի, հսկայական բաները  անհասկանալի են մեզ համար: Քարտէզները եւ փոխաբերութիւնները չեն կարող դրանց ամբողջական պատկերը տալ: ",
+		'uz': "Biroq, rostdan ham, bu bo’shliqlar, bu tasavvur qilib bo’lmaydigan masofalar bizning idrokimizga tobe emas. Harita va metaforalar ularni aks ettira olmaydilar."
 	},
 	
 	'you-look-at': {
@@ -1540,7 +1595,8 @@ var translations = {
 		'zh': "你看到了这个点，然后你去找下一个点，这中间的所有东西都不重要，而且很无聊。",
 		'sv': "Du ser på en liten prick, sen letar du efter nästa lilla prick. Allt däremellan är obetydligt och ganska tråkigt.",
 		'pl': "Patrzysz na jedną małą kropkę, a następnie na kolejną małą kropkę. Wszystko pomiędzy jest nieistotne i całkiem nudne.",
-		'hy': "Նայում ենք մի փոքրիկ կէտի, յետոյ փնտրում ենք յաջորդին: Իսկ ինչ-որ նրանց միջեւ է՝ անիմաստ եւ շատ ձանձրանալի է: "
+		'hy': "Նայում ենք մի փոքրիկ կէտի, յետոյ փնտրում ենք յաջորդին: Իսկ ինչ-որ նրանց միջեւ է՝ անիմաստ եւ շատ ձանձրանալի է: ",
+		'uz': "Biz bitta mitti nuqtaga qaraymiz, keyin boshqasini kutamiz. Ular orasidagi barcha narsa hech qanday ahamiyatga ega emas va zerikarli."
 	},
 	
 	'emptiness-is-actually': {
@@ -1561,7 +1617,8 @@ var translations = {
 		'zh': "实际上到处都是虚无，它们占领了99.9999999999999999999958%的已知宇宙。",
 		'sv': "Tomhet finns faktiskt överallt. Det är typ 99,9999999999999999999958% av det kända universumet.",
 		'pl': "Pustka jest właściwie wszędzie. To jest jakieś 99,9999999999999999999958% znanego wszechświata.",
-		'hy': "Ըստ  էութեամբ, դատարկութիւնն ամէնուր է: Տեսանելի տիեզերքի 99.9999999999999999999958% դատարկութիւն է: "
+		'hy': "Ըստ  էութեամբ, դատարկութիւնն ամէնուր է: Տեսանելի տիեզերքի 99.9999999999999999999958% դատարկութիւն է: ",
+		'uz': "Darhaqiqat, bo’shliq hamma yoqda. Bo’shliq borliqning deyarli 99.9999999999999999999958% qismini tashkil etadi."
 	},
 	
 	'even-an-atom': {
@@ -1582,7 +1639,8 @@ var translations = {
 		'zh': "就算是原子，它内部也大都是空的。",
 		'sv': "Till och med en atom är mest tomt utrymme.",
 		'pl': "Nawet atom to w większości pusta przestrzeń.",
-		'hy': "Նոյնիսկ հիւլէն (ատոմ) մեծամասամբ դատարկ տարածութիւն է: "
+		'hy': "Նոյնիսկ հիւլէն (ատոմ) մեծամասամբ դատարկ տարածութիւն է: ",
+		'uz': "Hattoki atomning ichi ham deyarli bo’sh."
 	},
 	
 	'if-the-proton': {
@@ -1603,7 +1661,8 @@ var translations = {
 		'zh': "假如氢原子的质子就是这幅地图上太阳那么大，我们还需要11个这么大的地图来表示从氢原子质子到电子的平均距离。",
 		'sv': "Om protonen i en väteatom var av samma storlek som solen på den här kartan så skulle vi behöva 11 fler av dessa kartor för att visa det genomsnittliga avståndet till elektronen.",
 		'pl': "Gdyby proton w atomie wodoru był wielkości Słońca na tej mapie, potrzebowalibyśmy 11 kolejnych takich map, żeby pokazać średnią odległość od elektronu.",
-		'hy': "Եթէ ջրածնի հիւլէական միջուկի կազմող պրոտոնը լինէր այս քարտէզի Արեգակի չափսին, հարկաւոր կ'լինէր եւս 11 քարտէզ, որպէսզի ցուցադրել միջին հեռաւորութիւնը մինչեւ իր էլեկտրոնը:"
+		'hy': "Եթէ ջրածնի հիւլէական միջուկի կազմող պրոտոնը լինէր այս քարտէզի Արեգակի չափսին, հարկաւոր կ'լինէր եւս 11 քարտէզ, որպէսզի ցուցադրել միջին հեռաւորութիւնը մինչեւ իր էլեկտրոնը:",
+		'uz': "Agar vodorod atomining protoni bu haritada tasvirlangan Quyoshday bo’lganida, uning elektronigacha bo’lgan masofani tasvirlash uchun bizga yana shunday 11 ta harita kerak bo’lar edi."
 	},
 	
 	'some-theories-say': {
@@ -1624,7 +1683,8 @@ var translations = {
 		'zh': "有些理论说：所有的这些虚无实际上全部都是充满能量的暗物质，并没有什么真正的虚无…",
 		'sv': "Vissa teorier säger att all denna tomhet egentligen är full av energi eller mörk materia och att ingenting kan vara helt tomt...",
 		'pl': "Niektóre teorie mówią, że cała ta pustka jest tak naprawdę wypełniona energią lub czarną materią i że nic nie może być tak naprawdę puste...",
-		'hy': "Ըստ որոշ տեսութիւնների՝ այս դատարկութիւնը իրականում լի է էներգիայով, կամ մութ նիւթով, եւ ոչ մի բան չի կարող դատարկ լինել.... "
+		'hy': "Ըստ որոշ տեսութիւնների՝ այս դատարկութիւնը իրականում լի է էներգիայով, կամ մութ նիւթով, եւ ոչ մի բան չի կարող դատարկ լինել.... ",
+		'uz': "Ayrim teoriayalar, aslida bu bo’shliq energiyaga yoki qorong’u materiyaga to’la, haqonniy bo’shliq mavjud bo’lishi mumkin emas deb takidlaydi..."
 	},
 	
 	'but-come-on': {
@@ -1645,7 +1705,8 @@ var translations = {
 		'zh': "拜托，只有实在的东西对我们才有价值。",
 		'sv': "men kom igen, endast vanlig materia har någon mening för oss.",
 		'pl': "ale hej! - tylko zwykła materia ma dla nas jakieś znaczenie.",
-		'hy': "բայց, ճիշտն ասած, միայն սովորական նիւթը կարող է նշանակութիւն ունենալ մեզ համար:"
+		'hy': "բայց, ճիշտն ասած, միայն սովորական նիւթը կարող է նշանակութիւն ունենալ մեզ համար:",
+		'uz': "lekin o’zimizni aldamaylik, biz faqat oddiy materiyani tasavvur qila olamiz."
 	},
 	'you-could-safely': {
 		'en': "You could safely say the universe is a \"whole lotta nothing.\"",
@@ -1665,7 +1726,8 @@ var translations = {
 		'zh': "其实你也可以说宇宙是“总的来说没啥东西”。",
 		'sv': "Man kan lugnt säga att universum är en “väldans massa inget.” ",
 		'pl': "Można śmiało powiedzieć, że cały wszechświat to \"jedno wielkie nic.\"",
-		'hy': "Կարելի է հանգիստ ասել, որ տիեզերքը «2 հատ ոչմի բան» է:"
+		'hy': "Կարելի է հանգիստ ասել, որ տիեզերքը «2 հատ ոչմի բան» է:",
+		'uz': "Shuning uchun qo’rqmasdan “Borliq bu ignaning teshigidir” deb aytish mumkin."
 	},
 	'if-so-much': {
 		'en': "If so much of the universe is made up of emptiness, what does that mean to people like us, living on a tiny speck in the middle of all of it? ",
@@ -1685,7 +1747,8 @@ var translations = {
 		'zh': "假如宇宙的这么多部分都是由虚无构成的，那像我们这种活在中间的一小片灰尘上的人类又算是什么呢？",
 		'sv': "Om så mycket av universum består av tomhet, vad betyder det för människor som oss, som lever på en liten prick i mitten av allt?",
 		'pl': "Jeżeli taka olbrzymia część wszechświata składa się z pustki, to co to oznacza dla ludzi takich jak my, którzy żyją na jednej małej plamce pośrodku tego wszystkiego?",
-		'hy': "Եթէ տիեզերքը հիմնականում դատարկութիւնից է, ապա ի՞նչ է դա նշանակում մեզ նման մարդկանց  համար, ովքեր ապրում են աւազահատիկի վրայ այդ ամէնի կենտրոնում:"
+		'hy': "Եթէ տիեզերքը հիմնականում դատարկութիւնից է, ապա ի՞նչ է դա նշանակում մեզ նման մարդկանց  համար, ովքեր ապրում են աւազահատիկի վրայ այդ ամէնի կենտրոնում:",
+		'uz': "Agar borliq bo’shliqdan iborat bo’lsa, uning markazida joylashgan zarrachasida yashayotgan insonlar uchun bu qanday ma’noga ega?"
 	},
 	
 	'is-the-known': {
@@ -1706,7 +1769,8 @@ var translations = {
 		'zh': "已知的宇宙是99.9999999999999999999958%的空？",
 		'sv': "Är det kända universumet 99,9999999999999999999958% tomt?",
 		'pl': "Czy znany wszechświat jest w 99,9999999999999999999958% pusty?",
-		'hy': "Տեսանելի տիեզերքի 99.9999999999999999999958% դատա՞րկ է:"
+		'hy': "Տեսանելի տիեզերքի 99.9999999999999999999958% դատա՞րկ է:",
+		'uz': "Borliq 99.9999999999999999999958% ga bo’shmi?"
 	},
 	
 	'or-is-it': {
@@ -1727,7 +1791,8 @@ var translations = {
 		'zh': "还是说0.0000000000000000000042%的实？",
 		'sv': "Eller är det,0000000000000000000042% fullt? ",
 		'pl': "Czy może jest w 0,0000000000000000000042% pełny?",
-		'hy': "Թէ՞ 0.0000000000000000000042% լի է: "
+		'hy': "Թէ՞ 0.0000000000000000000042% լի է: ",
+		'uz': "Yoki 0.0000000000000000000042% ga to’la?"
 	},
 	
 	'with-so-much': {
@@ -1748,7 +1813,8 @@ var translations = {
 		'zh': "既然虚空占了世界的这么大一部分，那某种意义上恒星、行星和人类是不是这优雅整齐的虚无里的错误呢？就像黑毛衣上的一根白色绒毛？",
 		'sv': "Med så mycket tomhet, är inte stjärnor, planeter och människor bara störningar i en annars elegant och enhetlig intighet, som bitar av ludd på en svart tröja?",
 		'pl': "Biorąc pod uwagę tę wielką pustkę, czyż gwiazdy, planety i ludzie nie są tylko skazą na skądinąd eleganckiej i jednolitej nicości, jak strzępek kłaczka na czarnym swetrze?",
-		'hy': "Այս անսահման դատարկութեան մէջ արդեօ՞ք աստղերը, մոլորակները եւ մարդիկ նման են թերութեան՝ մի շքեղ եւ միանման ոչնչութեան մէջ, ինչպէս փոշու հատիկն է սեւ վերնաշապիկի վրայ: "
+		'hy': "Այս անսահման դատարկութեան մէջ արդեօ՞ք աստղերը, մոլորակները եւ մարդիկ նման են թերութեան՝ մի շքեղ եւ միանման ոչնչութեան մէջ, ինչպէս փոշու հատիկն է սեւ վերնաշապիկի վրայ: ",
+		'uz': "Agar bo’shliq shu darajada ko’p bo’lsa, qora sviterdagi changga o’xshab yulduzlar, sayyoralar va odamlar nafis va mukammal Hech Nima ichida atigina xatolikmi?"
 	},
 	
 	'but-without-the': {
@@ -1769,7 +1835,8 @@ var translations = {
 		'zh': "不过假如没有了这些小点，也就不会有可以测量出来的虚无，或者说也就没有人来测量了。",
 		'sv': "Men utan de små prickarna för tomheten att sträckas mellan, skulle det inte finnas någon tomhet att mäta, och för den delen, ingen att mäta det. ",
 		'pl': "Ale gdyby nie te maleńkie kropki nie możnaby zmierzyć pustki, która się między nimi rozciąga, a co za tym idzie nie byłoby nikogo, kto mógłby ją zmierzyć.",
-		'hy': "Բայց առանց փոքրիկ կէտիկների, որոնց միջեւ ձգւում է այդ ոչնչութիւնը, անհնար կ'լինէր չափել նրան, ու աւելին՝ ոչ ոք չէր լինի չափելու համար:"
+		'hy': "Բայց առանց փոքրիկ կէտիկների, որոնց միջեւ ձգւում է այդ ոչնչութիւնը, անհնար կ'լինէր չափել նրան, ու աւելին՝ ոչ ոք չէր լինի չափելու համար:",
+		'uz': "Lekin orasida Hech Nima cho’zilgan mitti nuqtalarsiz bo’shliqning o’zi bo’lmas edi; bundan tashqari, uni o’lchay oladiganlar o’zi ham mavjud bo’lmas edi."
 	},
 	
 	'you-might-say': {
@@ -1790,7 +1857,8 @@ var translations = {
 		'zh': "你也可以说是这么多的虚无让微小的点变得更有意义——简而言之事实就是：它们并不是空的。",
 		'sv': "Man kan säga att så mycket tomhet gör små bitar av materia så mycket mer meningsfulla - helt enkelt genom att, mot alla odds, inte vara tomma. ",
 		'pl': "Można by powiedzieć, że przez tak wielką pustkę te małe kawałki materii mają dużo większe znaczenie - po prostu dlatego, że na przekór wszystkiemu nie są puste.",
-		'hy': "Կարելի է ասել, որ այս դատարկութիւնը նիւթի մանր կտորիկները դարձնում է աւելի նշանակալից,  այն պարզ պատճառով, որ դրանք դատարկ չեն:"
+		'hy': "Կարելի է ասել, որ այս դատարկութիւնը նիւթի մանր կտորիկները դարձնում է աւելի նշանակալից,  այն պարզ պատճառով, որ դրանք դատարկ չեն:",
+		'uz': "Bo’shliqning o’ta ko’pligi badbaxt materiya zarrachalarini, ularni boshqa narsalarga zid qo’yib bo’sh bo’lmaganligi tufayli, mazmunliroq qiladi deb aytish mumkin."
 	},
 	
 	'if-youre-drowning': {
@@ -1811,7 +1879,8 @@ var translations = {
 		'zh': "假如你在大海中间快被淹死了，这时一小块浮木就有很大的意义了。",
 		'sv': "Om du drunknar mitt i havet så är en flytande bit drivved en ganska stor sak.",
 		'pl': "Gdy topisz się na środku oceanu, pływający kawałek drewna jest czymś bardzo istotnym.",
-		'hy': "Երբ ովկիանոսի մէջտեղում խեղդւում ես, փայտի լողացող բեկորը աշխարհի ամենակարեւոր բանն է:  "
+		'hy': "Երբ ովկիանոսի մէջտեղում խեղդւում ես, փայտի լողացող բեկորը աշխարհի ամենակարեւոր բանն է:  ",
+		'uz': "Agar okean o’rtasida cho’kayotgan bo’lsangiz, sokin suzib borayotgan bir taxta butun olamda eng muhim narsa."
 	},
 	
 	'what-if-trillions': {
@@ -1832,7 +1901,8 @@ var translations = {
 		'zh': "如果说千万个星球全部一个接一个地紧挨在一起会怎么样？那就不会有哪一个星球是特殊的了。",
 		'sv': "Tänk om biljoner stjärnor och planeter var klämda precis intill varandra? De skulle inte vara speciella alls.",
 		'pl': "A gdyby biliony gwiazd i planet były stłoczone obok siebie? Nie byłyby niczym specjalnym.",
-		'hy': "Ին՞չ կ'լինէր եթէ տրիլիոն աստղերը եւ մոլորակները հաւաքուէին իրար կողք: Նրանք առանձնայատկութիւն չէին ունենայ:"
+		'hy': "Ին՞չ կ'լինէր եթէ տրիլիոն աստղերը եւ մոլորակները հաւաքուէին իրար կողք: Նրանք առանձնայատկութիւն չէին ունենայ:",
+		'uz': "Agar trillionta yulduz va sayyoralar bitta joyda to’planganida nima bo’lar edi? Ular maxsusligini yoqotar edi."
 	},
 	
 	'it-seems-like': {
@@ -1853,7 +1923,8 @@ var translations = {
 		'zh': "这样看来我们都同时都渺小得可怜，也奇迹般伟大。",
 		'sv': "Det verkar som om vi både är patetiskt obetydliga och mirakulöst viktiga på samma gång.",
 		'pl': "Wygląda na to, że jesteśmy żałośnie nieistotni, a jednocześnie cudownie ważni.",
-		'hy': "Կարծես թէ մենք միաժամանակ եւ խղճալիօրէն աննշան,եւ հրաշալիօրէն կարեւոր ենք:"
+		'hy': "Կարծես թէ մենք միաժամանակ եւ խղճալիօրէն աննշան,եւ հրաշալիօրէն կարեւոր ենք:",
+		'uz': "Bundan kelib chiqadiki, biz birdaniga ham notavonmiz ham yaratilishning mo’jizasimiz."
 	},
 	
 	'whether-you-more': {
@@ -1874,7 +1945,8 @@ var translations = {
 		'zh': "你感受到更多是渺小的伟大还是无尽的虚无，取决于你是什么样的人以及你的大脑激素在这瞬间是怎么平衡的。",
 		'sv': "Oavsett om du starkt känner av den monumentala betydelsen av små saker eller det massiva tomrum mellan dem beror på vem du är och hur din hjärnas kemi är balanserad vid ett visst tillfälle.",
 		'pl': "To, czy silniej odczuwasz monumentalne znaczenie drobnych rzeczy, czy też ogromną pustkę pomiędzy nimi, zależy od tego kim jesteś i jaka jest równowaga chemiczna twojego mózgu w danym momencie.",
-		'hy': "Թէ ինչը՞ աւելի հիմնաւոր նշանակութիւն ունի՝ փոքր բաները, թէ վիթխարի դատարկութիւնը նրանց միջեւ, կախուած է թէ ո՞վ էք դուք եւ ինչպիսի՞ն է ձեր ուղեղի քիմիական հաւասարակշռուածութիւնը տուեալ պահին:"
+		'hy': "Թէ ինչը՞ աւելի հիմնաւոր նշանակութիւն ունի՝ փոքր բաները, թէ վիթխարի դատարկութիւնը նրանց միջեւ, կախուած է թէ ո՞վ էք դուք եւ ինչպիսի՞ն է ձեր ուղեղի քիմիական հաւասարակշռուածութիւնը տուեալ պահին:",
+		'uz': "Asosiy muhimroq narsa nima: mitti jismlarmi yoki ular orasidagi bo’shliqmi? Bu haqda o’ylayotgan insonga, uning miyasida qanday kimyoviy jarayonlar kechayotganligiga bog’liq."
 	},
 	
 	'we-walk-around': {
@@ -1895,7 +1967,8 @@ var translations = {
 		'zh': "我们一路走来，原来身体内部还有一个小型的感性的宇宙。",
 		'sv': " Vi går omkring med känslomässiga miniatyrversioner av universum inom oss. ",
 		'pl': " Chodzimy sobie wraz z naszymi miniaturowymi, emocjonalnymi wersjami wszechświata wewnątrz nas samych.",
-		'hy': " Մենք ապրում ենք մեր մէջ կրելով տիեզերքի յուզական մանրանկարը: "
+		'hy': " Մենք ապրում ենք մեր մէջ կրելով տիեզերքի յուզական մանրանկարը: ",
+		'uz': " Har birimiz ichimizda borliqning emotsional versiyalarini olib yuramiz."
 	},
 	
 	'its-reassuring-to': {
@@ -1916,7 +1989,8 @@ var translations = {
 		'zh': "所以说不论我们自轻还是自大，按宇宙的构造看来，它对这两个极端都有很好的包容度呢。这么一想还是挺安心的。",
 		'sv': "Det är tryggt att veta att oavsett hur sorgligt dystra eller löjligt betydelsefulla vi känner oss, verkar universum, att döma av den nuvarande strukturen, väl medveten om båda extremerna.",
 		'pl': "To pocieszające, że bez względu na to, czy czujemy się przygnębiająco posępnie, czy też absurdalnie wzniośle, wszechświat, sądząc z jego aktualnej struktury, zdaje się być świadom obu tych skrajności.",
-		'hy': "Մխիթարեցնում է այն միտքը, որ ինչքան էլ ընկճուած կամ մեծանշանակ մեզ զգանք, տիեզերքը, դատելով իր ներկայ կառուցուածքով՝ շատ լաւ տեղեակ է  այդ երկու ծայրայեղութիւններից:"
+		'hy': "Մխիթարեցնում է այն միտքը, որ ինչքան էլ ընկճուած կամ մեծանշանակ մեզ զգանք, տիեզերքը, դատելով իր ներկայ կառուցուածքով՝ շատ լաւ տեղեակ է  այդ երկու ծայրայեղութիւններից:",
+		'uz': "Biz qandayin bo’lmasak - depressiv oddiymizmi yoki bema'ni muqarrarmizmi - borliq, uning hozirgi holatiga tayangan holda, ikkala tuyg’udan xabardor ekanligi haqida o’ylash yoqimli."
 	},
 	
 	'neptunelabel': {
@@ -1937,7 +2011,8 @@ var translations = {
 		'zh': "海王星",
 		'sv': "Neptunus",
 		'pl': "Neptun",
-		'hy': "Նեպտուն"
+		'hy': "Նեպտուն",
+		'uz': "Neptun"
 	},
 	
 	'the-fact-that': {
