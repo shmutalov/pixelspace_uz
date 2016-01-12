@@ -2033,7 +2033,8 @@ var translations = {
 		'zh': "你停下来仔细思考的话，你会发现你能在这一片虚无的中间其实是蛮神奇的一件事情。",
 		'sv': "Det faktum att du är här, mitt i allt detta ingenting, är ganska häpnadsväckande när du stannar upp och tänker på det.",
 		'pl': "Fakt, że jesteś tutaj pośrodku tego całego nic, jest dość niesamowity, gdyby się nad tym przez chwilę zastanowić.",
-		'hy': "Եթէ կանգ առնէք ու մտածէք. ձեր գոյութիւնը այս դատարկութեան մէջ ապշեցուցիչ փաստ է: "
+		'hy': "Եթէ կանգ առնէք ու մտածէք. ձեր գոյութիւնը այս դատարկութեան մէջ ապշեցուցիչ փաստ է: ",
+		'uz': "Bir o’ylab qarasak, bu bo’shliq orasida mavjud bo’lishimizning o’zi"
 	},
 	
 	'congratulations-on-making': {
@@ -2075,7 +2076,8 @@ var translations = {
 		'zh': "冥王星",
 		'sv': "Pluto",
 		'pl': "Pluton",
-		'hy': "Պլուտոն"
+		'hy': "Պլուտոն",
+		'uz': "Pluton"
 	},
 	
 	'we-still-love': {
@@ -2096,7 +2098,8 @@ var translations = {
 		'zh': "(我们依然爱你)",
 		'sv': "(Vi älskar dig fortfarande)",
 		'pl': "(Wciąż cię kochamy)",
-		'hy': "(Մենք սիրում ենք քեզ)"
+		'hy': "(Մենք սիրում ենք քեզ)",
+		'uz': "(Biz bari bir seni sevamiz)"
 	},
 	
 	'might-as-well': {
@@ -2117,7 +2120,8 @@ var translations = {
 		'zh': "不妨就到这了。想要看到别的东西的话，我们还要拉过6,771个太阳系地图这么长。",
 		'sv': "Lika bra att sluta nu. Vi måste bläddra igenom 6771 fler kartor som denna innan vi ser något annat. ",
 		'pl': "Możemy właściwie się tutaj zatrzymać. Będziemy musieli przewinąć 6 771 kolejnych takich map zanim zobaczymy cokolwiek innego.",
-		'hy': "Կարելի է արդէն կանգնել: Պէտք է պտտել 6 771 այսպիսի քարտէզներ, որ մի նոր բան տեսնենք:"
+		'hy': "Կարելի է արդէն կանգնել: Պէտք է պտտել 6 771 այսպիսի քարտէզներ, որ մի նոր բան տեսնենք:",
+		'uz': "Shu yerda ham to’xtasak bo’ladi. Yana biron bir narsa ko’rish uchun shunday xaritadan yana 6771 tasini aylantirishimiz kerak."
 	},
 	
 	'back-to-josh': {
@@ -2138,7 +2142,8 @@ var translations = {
 		'zh': "回到JoshWorth.com",
 		'sv': "Tillbaka till JoshWorth.com ",
 		'pl': "Powrót do JoshWorth.com",
-		'hy': "Յետ դէպի JoshWorth.com"
+		'hy': "Յետ դէպի JoshWorth.com",
+		'uz': "JoshWorth.com ga qaytmoq"
 	},
 	
 	'follow-me-on': {
@@ -2159,7 +2164,8 @@ var translations = {
 		'zh': "在推特上关注我",
 		'sv': "Följ mig på Twitter",
 		'pl': "Śledź mnie na Twitterze",
-		'hy': "Հետեւէ՛ք ինձ Twitter-ում"
+		'hy': "Հետեւէ՛ք ինձ Twitter-ում",
+		'uz': "Men Twitter daman"
 	},
 	'translation-by': {
 		'en': "",
@@ -2179,7 +2185,8 @@ var translations = {
 		'zh': " | Translation by Lirian Su, 苏子岳",
 		'sv': " | Översättning Christoffer Söderström",
 		'pl': "  |  Tłumaczenie: Mateusz Dobrowolny",
-		'hy': "  |  Թարգմանութիւն՝ ԳԻՏաշխարհ"
+		'hy': "  |  Թարգմանութիւն՝ ԳԻՏաշխարհ",
+		'uz': " | Tarjimon: Sherzod Mutalov"
 	},
 	'translation-link2': {
 		'en':"",
@@ -2199,7 +2206,8 @@ var translations = {
 		'zh': "",
 		'sv': "",
 		'pl': "",
-		'hy': ""
+		'hy': "",
+		'uz': ""
 	},
 	'translation-link1': {
 		'en':"",
@@ -2219,7 +2227,8 @@ var translations = {
 		'zh': "",
 		'sv': "",
 		'pl': "",
-		'hy': ""
+		'hy': "",
+		'uz': ""
 	},
 		'translation-link3': {
 		'en':"",
@@ -2239,7 +2248,8 @@ var translations = {
 		'zh': "",
 		'sv': "",
 		'pl': "",
-		'hy': ""
+		'hy': "",
+		'uz': ""
 	},
 	'msg1': {
 		'en':"This is how fast light travels...",
@@ -2259,7 +2269,8 @@ var translations = {
 		'zh': "光前进的速度就这么快…",
 		'sv': "Detta är hur snabbt ljus färdas... ",
 		'pl': "To jest prędkość z jaką podróżuje światło...",
-		'hy': "Սա լոյսի արագութիւնն է..."
+		'hy': "Սա լոյսի արագութիւնն է...",
+		'uz': "Bunday tezlik bilan yorug’lik harakatlanadi..."
 	},
 	'msg2': {
 		'en':"It's the fastest speed allowed by the universe...",
@@ -2279,7 +2290,8 @@ var translations = {
 		'zh': "这是宇宙里允许的最快速度了…",
 		'sv': "Det är den snabbaste hastigheten som tillåts av universum...",
 		'pl': "To jest największa prędkość dozwolona we wszechświecie...",
-		'hy': "Ամբողջ տիեզերքում ամենամեծ թոյլատրուած արագութիւնը սա է:"
+		'hy': "Ամբողջ տիեզերքում ամենամեծ թոյլատրուած արագութիւնը սա է:",
+		'uz': "Bundanda tez harakatlanish borlig’imizda taqiqlangan..."
 	},
 	'msg3': {
 		'en':"Seriously.",
@@ -2299,7 +2311,8 @@ var translations = {
 		'zh': "说真的。",
 		'sv': "Seriöst.",
 		'pl': "Naprawdę.",
-		'hy': "Իսկապէս:"
+		'hy': "Իսկապէս:",
+		'uz': "Bu hazil emas."
 	},
 	'msg4': {
 		'en':"If you're in a hurry to get somewhere in space...",
@@ -2319,7 +2332,8 @@ var translations = {
 		'zh': "假如你急着想去宇宙中的某个地方…",
 		'sv': "Om du har bråttom att komma någonstans i rymden... ",
 		'pl': "Jeżeli śpieszysz się do jakiegoś miejsca we wszechświecie...",
-		'hy': "Եթէ շատ շատ էք ուզում շտապ մի տեղ հասնել տիեզերքում..."
+		'hy': "Եթէ շատ շատ էք ուզում շտապ մի տեղ հասնել տիեզերքում...",
+		'uz': "Agar biror bir joygacha yetib borishga sabringiz yo’q bo’lsa..."
 	},
 	'msg5': {
 		'en':"you'll need to take it up with Mr. Einstein.",
@@ -2339,7 +2353,8 @@ var translations = {
 		'zh': "你得去找爱因斯坦先生好好商量一下了。",
 		'sv': "Då måste du ta upp det med Herr Einstein. ",
 		'pl': "Będziesz musiał się skonsultować z panem Einsteinem.",
-		'hy': "Բոլոր հարցերը ուղղէք պ-ն Այնշտայնին:"
+		'hy': "Բոլոր հարցերը ուղղէք պ-ն Այնշտայնին:",
+		'uz': "...e'tirozlaringizni professor Eynshteynga ayting."
 	},	
 	'km': {
 		'en':"km",
@@ -2359,7 +2374,8 @@ var translations = {
 		'zh': "千米",
 		'sv': "km",
 		'pl': "km",
-		'hy': "կմ"
+		'hy': "կմ",
+		'uz': "km"
 	},
 	'mi': {
 		'en':"mi",
@@ -2379,7 +2395,8 @@ var translations = {
 		'zh': "英里",
 		'sv': "mi",
 		'pl': "mi",
-		'hy': "մղ"
+		'hy': "մղ",
+		'uz': "mil"
 	},
 	'au': {
 		'en':"AU",
@@ -2399,7 +2416,8 @@ var translations = {
 		'zh': "天文单位",
 		'sv': "AE",
 		'pl': "au",
-		'hy': "ա.մ."
+		'hy': "ա.մ.",
+		'uz': "a.b."
 	},
 	'lightminutes': {
 		'en':"Light Minutes",
@@ -2419,7 +2437,8 @@ var translations = {
 		'zh': "光分",
 		'sv': "Ljusminuter",
 		'pl': "minut świetlnych",
-		'hy': "Լուսային րոպէ"
+		'hy': "Լուսային րոպէ",
+		'uz': "yorug’lik daqiqasi"
 	},
 	'earths': {
 		'en':"Earths",
@@ -2439,7 +2458,8 @@ var translations = {
 		'zh': "地球直径",
 		'sv': "Jordar",
 		'pl': "średnic Ziemi",
-		'hy': "երկիր"
+		'hy': "երկիր",
+		'uz': "Yer diametrlari"
 	},
 	'pixels': {
 		'en':"Pixels",
@@ -2459,7 +2479,8 @@ var translations = {
 		'zh': "像素",
 		'sv': "pixlar",
 		'pl': "pixeli",
-		'hy': "Լուսակէտիկ"
+		'hy': "Լուսակէտիկ",
+		'uz': "piksel"
 	},
 	'buses': {
 		'en':"Buses",
@@ -2479,7 +2500,8 @@ var translations = {
 		'zh': "公交车长度",
 		'sv': "Bussar",
 		'pl': "autobusów",
-		'hy': "Ավտոբուս"
+		'hy': "Ավտոբուս",
+		'uz': "avtobus"
 	},
 	'bluewhales': {
 		'en':"Blue Whales",
@@ -2499,7 +2521,8 @@ var translations = {
 		'zh': "蓝鲸长度",
 		'sv': "Blå valar",
 		'pl': "płetwali błękitnych",
-		'hy': "Կապոյտ կէտ"
+		'hy': "Կապոյտ կէտ",
+		'uz': "moviy kit"
 	},
 	'greatwalls': {
 		'en':"Great Walls of China",
@@ -2519,7 +2542,8 @@ var translations = {
 		'zh': "长城",
 		'sv': "Kinesiska murar",
 		'pl': "Wielkich Murów Chińskich",
-		'hy': "Չինական մեծ պարիսպ"
+		'hy': "Չինական մեծ պարիսպ",
+		'uz': "Buyuk Xitoy devori"
 	},
 }
 	
@@ -2541,7 +2565,8 @@ var languages = {
 	Українська: 'ua',
 	Polski: 'pl',
 	Հայերէն: 'hy',
-	简体中文: 'zh'
+	简体中文: 'zh',
+	O’zbekcha: 'uz'
 }
 
 var delimeters = {
@@ -2561,7 +2586,8 @@ var delimeters = {
 	Українська: ' ',
 	Polski: ' ',
 	Հայերէն: ',',
-	简体中文: ','
+	简体中文: ',',
+	O’zbekcha: ' '
 }
 
 var decimalmarks = {
@@ -2581,6 +2607,7 @@ var decimalmarks = {
 	Українська: ',',
 	Polski: ',',
 	Հայերէն: '.',
-	简体中文: '.'
+	简体中文: '.',
+	O’zbekcha: '.'
 	
 }
